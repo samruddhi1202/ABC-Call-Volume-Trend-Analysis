@@ -1,2 +1,5 @@
 # ABC-Call-Volume-Trend-Analysis
-In this project, I have used analytical skills to understand the trends in the call volume of the Customer Experience team and derive valuable insights from it.
+In this project, I have dive into the world of Customer Experience (CX) analytics,
+specifically focusing on the inbound calling team of a company. Inbound customer support, which is the focus of this project, involves handling incoming
+calls from existing or prospective customers. The goal is to attract, engage, and delight
+customers, turning them into loyal advocates for the business.
